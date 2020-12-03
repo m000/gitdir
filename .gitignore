@@ -1,0 +1,5 @@
+.gitignore
+handler.sh
+watch.sh
+*.tmp
+.*.sw?
